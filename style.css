@@ -2,5 +2,6 @@ body{
     background-color: #ADBBDA;
 }
 .grid-container{
+    display: grid;
     border: 1px;
 }
